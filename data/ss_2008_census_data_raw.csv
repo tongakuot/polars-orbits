@@ -1,0 +1,454 @@
+Region,Region Name,Region - RegionId,Variable,Variable Name,Age,Age Name,Scale,Units,2008
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,964353
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,150872
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,151467
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,126140
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,103804
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,82588
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,76754
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,63134
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,56806
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,42139
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,31794
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,24273
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,14381
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,14311
+KN.A2,Upper Nile,SS-NU,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,25890
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,525430
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,82690
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,83744
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,71027
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,57387
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,42521
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,38795
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,32236
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,30228
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,22290
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,18163
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,13627
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,8557
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,8419
+KN.A2,Upper Nile,SS-NU,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,15746
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,438923
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,68182
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,67723
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,55113
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,46417
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,40067
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,37959
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,30898
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,26578
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,19849
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,13631
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,10646
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,5824
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,5892
+KN.A2,Upper Nile,SS-NU,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,10144
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,1358602
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,207424
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,215121
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,179544
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,146141
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,121886
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,109109
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,90517
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,74858
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,58131
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,45134
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,35441
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,19593
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,20661
+KN.A3,Jonglei,SS-JG,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,35042
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,734327
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,115806
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,120885
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,101752
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,80739
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,62047
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,52324
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,42948
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,37196
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,28822
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,24907
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,19713
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,11824
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,12706
+KN.A3,Jonglei,SS-JG,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,22658
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,624275
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,91618
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,94236
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,77792
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,65402
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,59839
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,56785
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,47569
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,37662
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,29309
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,20227
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,15728
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,7769
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,7955
+KN.A3,Jonglei,SS-JG,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,12384
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,585801
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,108357
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,99604
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,76111
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,59342
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,49849
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,45101
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,34200
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,28967
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,20504
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,17887
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,12904
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,8077
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,8098
+KN.A4,Unity,SS-UY,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,16800
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,300247
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,56916
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,52077
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,40264
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,30359
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,24162
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,22030
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,16121
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,14617
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,9702
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,9772
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,6571
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,4497
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,4160
+KN.A4,Unity,SS-UY,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,8999
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,285554
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,51441
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,47527
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,35847
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,28983
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,25687
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,23071
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,18079
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,14350
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,10802
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,8115
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,6333
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,3580
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,3938
+KN.A4,Unity,SS-UY,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,7801
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,972928
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,169599
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,160305
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,123695
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,95603
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,79790
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,81025
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,61243
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,58293
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,38184
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,33469
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,21800
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,14709
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,12243
+KN.A5,Warrap,SS-WR,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,22970
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,470734
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,86690
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,81314
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,62850
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,44951
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,34342
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,34624
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,25922
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,27252
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,18350
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,17408
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,10819
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,7694
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,6173
+KN.A5,Warrap,SS-WR,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,12345
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,502194
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,82909
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,78991
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,60845
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,50652
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,45448
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,46401
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,35321
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,31041
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,19834
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,16061
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,10981
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,7015
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,6070
+KN.A5,Warrap,SS-WR,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,10625
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,720898
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,136520
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,124955
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,82164
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,61027
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,55209
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,55021
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,42658
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,41334
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,28418
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,24744
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,18501
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,12603
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,11636
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,26108
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,348290
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,70011
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,63300
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,42046
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,28934
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,22604
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,22344
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,18761
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,19371
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,13301
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,12963
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,9019
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,6330
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,5783
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,13523
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,372608
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,66509
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,61655
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,40118
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,32093
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,32605
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,32677
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,23897
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,21963
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,15117
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,11781
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,9482
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,6273
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,5853
+KN.A6,Northern Bahr el Ghazal,SS-BN,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,12585
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,333431
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,53967
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,50330
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,37417
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,33702
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,31789
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,31740
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,23264
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,21213
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,14564
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,11297
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,7390
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,4813
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,4247
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,7698
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,177040
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,28012
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,26270
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,20139
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,17844
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,16258
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,16572
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,12496
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,11762
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,8171
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,6374
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,3990
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,2643
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,2338
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,4171
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,156391
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,25955
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,24060
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,17278
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,15858
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,15531
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,15168
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,10768
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,9451
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,6393
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,4923
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,3400
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,2170
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,1909
+KN.A7,Western Bahr el Ghazal,SS-BW,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,3527
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,695730
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,106232
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,109096
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,88658
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,71513
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,64719
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,62195
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,47137
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,39024
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,29718
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,23726
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,16835
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,10651
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,9730
+KN.A8,Lakes,SS-LK,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,16496
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,365880
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,55608
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,57417
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,47790
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,37766
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,32891
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,31524
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,22804
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,20128
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,16129
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,13279
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,9118
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,5862
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,5464
+KN.A8,Lakes,SS-LK,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,10100
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,329850
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,50624
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,51679
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,40868
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,33747
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,31828
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,30671
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,24333
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,18896
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,13589
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,10447
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,7717
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,4789
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,4266
+KN.A8,Lakes,SS-LK,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,6396
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,619029
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,81154
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,84827
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,71626
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,72776
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,61278
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,56984
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,42527
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,39593
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,29201
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,24377
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,16125
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,9885
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,9766
+KN.A9,Western Equatoria,SS-EW,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,18910
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,318443
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,42304
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,44945
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,38517
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,36558
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,29084
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,27440
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,20673
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,19454
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,15292
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,13111
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,8642
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,5461
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,5421
+KN.A9,Western Equatoria,SS-EW,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,11541
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,300586
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,38850
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,39882
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,33109
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,36218
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,32194
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,29544
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,21854
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,20139
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,13909
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,11266
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,7483
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,4424
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,4345
+KN.A9,Western Equatoria,SS-EW,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,7369
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,1103557
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,163539
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,161582
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,138342
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,128564
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,111675
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,106551
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,75048
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,66553
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,43986
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,35444
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,24305
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,14697
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,13266
+KN.A10,Central Equatoria,SS-EC,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,20005
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,581722
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,85158
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,84207
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,72882
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,66688
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,57825
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,55390
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,40117
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,35613
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,24162
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,19463
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,13104
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,8331
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,7373
+KN.A10,Central Equatoria,SS-EC,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,11409
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,521835
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,78381
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,77375
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,65460
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,61876
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,53850
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,51161
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,34931
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,30940
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,19824
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,15981
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,11201
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,6366
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,5893
+KN.A10,Central Equatoria,SS-EC,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,8596
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C1,Total,units,Persons,906161
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C2,0 to 4,units,Persons,126467
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C3,5 to 9,units,Persons,140529
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C4,10 to 14,units,Persons,133693
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C5,15 to 19,units,Persons,117357
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C6,20 to 24,units,Persons,80223
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C7,25 to 29,units,Persons,73531
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C8,30 to 34,units,Persons,57187
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C9,35 to 39,units,Persons,49172
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C10,40 to 44,units,Persons,34859
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C11,45 to 49,units,Persons,28228
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C12,50 to 54,units,Persons,19691
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C13,55 to 59,units,Persons,12386
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C14,60 to 64,units,Persons,11673
+KN.A11,Eastern Equatoria,SS-EE,KN.B2,"Population, Total (Number)",KN.C22,65+,units,Persons,21165
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C1,Total,units,Persons,465187
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C2,0 to 4,units,Persons,66232
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C3,5 to 9,units,Persons,74226
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C4,10 to 14,units,Persons,72270
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C5,15 to 19,units,Persons,61676
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C6,20 to 24,units,Persons,39054
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C7,25 to 29,units,Persons,34355
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C8,30 to 34,units,Persons,26453
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C9,35 to 39,units,Persons,23364
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C10,40 to 44,units,Persons,17274
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C11,45 to 49,units,Persons,14501
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C12,50 to 54,units,Persons,10209
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C13,55 to 59,units,Persons,6646
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C14,60 to 64,units,Persons,6399
+KN.A11,Eastern Equatoria,SS-EE,KN.B5,"Population, Male (Number)",KN.C22,65+,units,Persons,12528
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C1,Total,units,Persons,440974
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C2,0 to 4,units,Persons,60235
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C3,5 to 9,units,Persons,66303
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C4,10 to 14,units,Persons,61423
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C5,15 to 19,units,Persons,55681
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C6,20 to 24,units,Persons,41169
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C7,25 to 29,units,Persons,39176
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C8,30 to 34,units,Persons,30734
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C9,35 to 39,units,Persons,25808
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C10,40 to 44,units,Persons,17585
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C11,45 to 49,units,Persons,13727
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C12,50 to 54,units,Persons,9482
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C13,55 to 59,units,Persons,5740
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C14,60 to 64,units,Persons,5274
+KN.A11,Eastern Equatoria,SS-EE,KN.B8,"Population, Female (Number)",KN.C22,65+,units,Persons,8637
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Source:,"National Bureau of Statistics, South Sudan",NA,NA,NA,NA,NA,NA,NA,NA
+Download URL:,http://southsudan.opendataforafrica.org/fvjqdpe/population-by-age-and-sex-2008-south-sudan,NA,NA,NA,NA,NA,NA,NA,NA
