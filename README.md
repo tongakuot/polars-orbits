@@ -1,9 +1,9 @@
 # Polars Orbit
 The Polars library has emerged as the most sought-after Python package in data science, owing to its impressive speed and dplyr-like syntax. In recognition of its potential, I have created a dedicated GitHub repository for Polars, where both experienced and budding data scientists and analysts can access a plethora of informative Polars tutorials.
 
-![Image Credits: Google](image.png)
+![Image Credits: Google](img/image.png)
 
-![Sample polars code](polars_aggregation_img_00.png)
+![Sample polars code](img/polars_aggregation_img_00.png)
 
 # References
 
