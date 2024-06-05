@@ -3,7 +3,7 @@ The Polars library has emerged as the most sought-after Python package in data s
 
 ![Image Credits: Google](img/image.png)
 
-![Sample polars code](img/polars_aggregation_img_00.png)
+![2008 South Sudan Census data function](img/tweak-census-img.png)
 
 # References
 
