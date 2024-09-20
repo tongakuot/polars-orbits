@@ -1,0 +1,147 @@
+---
+title: "Using the across function from dplyr package"
+author: "Alierwai Reng"
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    
+---
+
+# Getting Started
+
+## Load the required libraries
+
+```{r}
+#| warning: false
+#| message: false
+library(tidyverse)
+```
+
+## Load data
+
+```{r}
+# Set the seed for reproducibility; create a same student-grade dataset
+set.seed(254)
+student_grades <- 
+    tibble(
+        name = c(
+            "Ayen", "Deng", "Akuien", 
+            "Atong", "Tut", "Garang", 
+            "Wichar", "Nyikuoth"
+            ),
+        english = rnorm(n = 8, mean = 85, sd = 15),
+        mathematics = rnorm(n = 8, mean = 82, sd = 12.5),
+        statistics = rnorm(n = 8, mean = 89, sd = 10.5),
+        data_science = rnorm(n = 8, mean = 78, sd = 14)
+    )
+
+# Display output
+student_grades |> 
+    knitr::kable()
+```
+
+# Transform the data and select two highest and two lowest grades for each student
+
+```{r}
+# Trim grades above 100 and round to 2 decimal places
+final_grades <- 
+    student_grades |> 
+    mutate(
+        across(where(is.numeric), \(x) if_else(x > 100, 100, round(x, 1)))
+    ) 
+
+final_grades|> 
+    knitr::kable()
+```
+
+
+```{r}
+# Compute the top 2 best grades
+top_2_scores <- 
+    final_grades |> 
+    pivot_longer(
+        where(is.numeric), 
+        names_to = "subject", 
+        values_to = "grade"
+    ) |> 
+    # Select the two highest grades for each student; ties are retained by default
+    slice_max(order_by = grade, n = 2, by = name, with_ties = TRUE)
+
+top_2_scores
+```
+
+
+```{r}
+# Compute the bottom 2 worst grades
+bottom_2_scores <- 
+    final_grades |> 
+    pivot_longer(
+        where(is.numeric), 
+        names_to = "subject", 
+        values_to = "grade"
+    ) |> 
+    # Select the two lowest grades for each student; ties are retained by default
+    slice_min(order_by = grade, n = 2, by = name, with_ties = TRUE)
+
+bottom_2_scores
+```
+
+
+```{r}
+#| warning: false
+#| message: false
+
+# Import multiple Excel files into R
+library(readxl)
+
+paths <- list.files("../00-data/multiple_excel_files", pattern = "[.]xlsx$", full.names = TRUE)
+
+census <- 
+    paths |> 
+    set_names(basename) |> 
+    map(\(path) read_excel(path)) |> 
+    list_rbind(names_to = 'state') |> 
+    # mutate(state = str_remove_all(state, '.xlsx')) |> 
+    separate_wider_delim(
+        state,
+        delim = '.',
+        names = c('state', NA)
+    ) |> 
+    mutate(state = str_replace_all(state, '_', ' ') |> str_to_title()) |> 
+    janitor::clean_names() |> 
+    select(
+        former_region , 
+        state, 
+        state2 = region_name, 
+        gender = variable_name, 
+        age_category = age_name,
+        population = x2008
+        ) |> 
+    separate_wider_delim(
+        gender,
+        delim = ' ',
+        names = c(NA, 'gender', NA)
+    ) |> 
+    filter(gender != 'Total', age_category != 'Total') |> 
+    mutate(
+        age_category = case_when(
+            age_category %in% c("0 to 4", "5 to 9", "10 to 14") ~ "0-14",
+            age_category %in% c("15 to 19", "20 to 24")         ~ "15-24", 
+            age_category %in% c("25 to 29", "30 to 34")         ~ "25-34", 
+            age_category %in% c("35 to 39", "40 to 44")         ~ "35-44",
+            age_category %in% c("45 to 49", "50 to 54")         ~ "45-54",
+            age_category %in% c("55 to 59", "60 to 64")         ~ "55-64",
+            .default = "65+"
+        )
+    ) |> 
+    summarize(
+        total = sum(population, na.rm = TRUE),
+        .by = c(former_region, state2, gender, age_category)
+    )
+
+# Inspect output
+census
+
+```
